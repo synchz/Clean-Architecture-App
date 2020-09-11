@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="marginLeftRightCard">8dp</dimen>
+    <dimen name="marginTopBottomCard">4dp</dimen>
+    <dimen name="cardCornerRadius">10dp</dimen>
+    <dimen name="thumbSize">80dp</dimen>
+    <dimen name="textMarginFromImage">12dp</dimen>
+    <dimen name="textSizeNormal">14sp</dimen>
+    <dimen name="textSizeSmall">12sp</dimen>
+    <dimen name="textSizeTitle">20sp</dimen>
+    <dimen name="cardPadding">20dp</dimen>
+    <dimen name="textSizeMedium">14sp</dimen>
+    <dimen name="chip_margin">5dp</dimen>
+    <dimen name="text_20">20sp</dimen>
+    <dimen name="no_space">0dp</dimen>
+</resources>
